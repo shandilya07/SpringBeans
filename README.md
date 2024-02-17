@@ -1,4 +1,4 @@
-# Demo of brean creation using Spring FWK
+# Demo of bean creation using Spring FWK
 
 This project covers different (all except the XML configuration) ways of creating beans of Spring FWK
 
